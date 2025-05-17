@@ -2,7 +2,7 @@ PIDSimulator-privacy <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Privacy Policy</title>
+  
 </head>
 <body>
   <h1>Privacy Policy for Real time PID Simulator</h1>
